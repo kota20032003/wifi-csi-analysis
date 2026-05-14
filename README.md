@@ -30,7 +30,7 @@ src/
 └── smooth_majority.py
 ```
 
-## 主な関数の説明
+## 各ファイルの説明
 
 plot_csi_ravel2_old.py
 
